@@ -53,5 +53,15 @@
 ```textmate
 大数据的三件事：
     海量数据存储/传输/计算
-    
+```
+
+## Flume
+
+```textmate
+Flume
+    web/disk->source
+    channel
+    sink->hdfs/kafka
+AVRO:
+    轻量级的RPC框架
 ```
