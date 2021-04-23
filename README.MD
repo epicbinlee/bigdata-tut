@@ -64,4 +64,20 @@ Flume
     sink->hdfs/kafka
 AVRO:
     轻量级的RPC框架
+实践：
+    使用Flume接受Linux发送到指定的端口的数据并打印到控制台
+    nc localhost 4444
+    日志搜集：
+```
+
+## Sqoop 
+
+```textmate
+解决的问题是从各种关系数据库到Hadoop的转换
+
+```
+
+## Hive
+```textmate
+HSQL 
 ```
